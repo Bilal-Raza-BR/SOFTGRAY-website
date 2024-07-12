@@ -1,0 +1,150 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+section{
+    background-color: rgb(236, 236, 236);
+    max-width: 2135px;
+    min-width: 2135px;
+}
+/* NAVBAR */
+
+.logo{
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 80px;
+    width: 200px;
+}
+
+.navbar li{
+display: inline-block;
+font-weight: bold;
+margin: 15px;
+margin-right: 40px;
+
+}
+.navbar{
+    float:right ;
+    margin-right: 100px;
+}
+
+.logo,.navbar{
+    vertical-align: middle;
+    display: inline-block;
+}
+.contact{
+    padding-left: 50px;
+    font-size: 20px;
+}
+/* BENIR */
+ .benir{
+    background-image: url("https://i0.wp.com/www.fullhd3dglasses.com/wp-content/uploads/2017/09/ajsdjkvabsjkvkajsdvkjdasbvkjbaskjdvbkjsadvkjbaskdvasdv.jpg?resize=720%2C300&ssl=1");
+background-size: cover;
+height: 600px;
+text-align: center;
+color: white;
+padding-top: 10px;
+margin-top: 20px;
+
+}
+.benir h1{
+    font-size: 80px;
+}
+.benir p{
+    font-size: 20px;
+} 
+/* CONETENT */
+.content{
+    padding-top: 40px;
+    text-align: center;
+}
+.cont{
+    width: 15%;
+    display:inline-block;
+    text-align: center;
+    margin: 50px;
+}
+.cont img{
+    width: 150px;
+    border-radius: 75px;
+    
+}
+.cont h2{
+    color:#3598db ;
+}
+/* AREA */
+.area{
+    background-color: rgb(209, 208, 208);
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 100px;
+
+}
+.div1 div{
+    display: inline-block;
+    width: 40%;
+    vertical-align:text-top ;
+    font-size: 20px;
+}
+.div1 h1{
+    font-size: 50px;
+}
+button{
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.float{
+    float: right;
+}
+.div2{
+    margin-top: 200px;
+    margin-bottom: 50px ;
+}
+.div2 img{
+    display: inline;
+    width: 520px;
+    height: 300px;
+}
+/* LAST AREA */
+
+.card{
+    display: inline-block;
+    width: 490px;
+    margin: 20px;
+}
+.card img{
+ width: 490px;
+ height: 300px;
+    
+}
+.white{
+
+    background-color: white;
+}
+.gape{
+    margin: 20px;
+    padding-bottom: 50px;
+    
+}
+.gape h4{
+    color: #3598db;
+    font-size: 20px;
+}
+.card span{
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.last1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.area,.last{
+    padding-left: 250px;
+
+}
